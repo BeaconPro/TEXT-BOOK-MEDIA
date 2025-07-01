@@ -2,3 +2,8 @@ body {
     background-color: cornflowerblue;
     text-align: center;
 }
+iframe {
+    border: none;
+    height: 100vh
+    width: 100%;
+}
